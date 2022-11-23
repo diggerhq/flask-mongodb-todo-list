@@ -1,3 +1,9 @@
+Simple Flask+MongoDB application to manage To-Do list.
+
+Could be deployed to AWS ECS.
+
+![screenshot](flask-mongo-todo-list.png)
+
 Based on https://www.youtube.com/watch?v=xjHEcmjlD-Y&feature=youtu.be  
 https://github.com/PrettyPrinted/youtube_video_code/tree/master/2020/09/01/Beginner%20Flask%20Project:%20Create%20a%20Todo%20App%20With%20Flask%20and%20MongoDB
 
